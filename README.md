@@ -1,2 +1,1 @@
 # python-challenge
-is cool
